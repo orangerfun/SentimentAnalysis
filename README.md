@@ -3,5 +3,6 @@
 数据集下载：[IMDb数据集](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 # 2. 程序说明
 `BasedRNN.py`是基于pytorch深度学习框架实现的使用LSTM对电影评价数据的情感分析
+`BasedCNN.py`是基于pytorch深度学习框架实现的使用CNN网络对电影评价数据的情感分析
 
 # 3. 代码解释
